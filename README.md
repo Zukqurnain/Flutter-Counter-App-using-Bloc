@@ -1,5 +1,5 @@
 "# Flutter-Counter-App-using-Bloc" 
-# bloc_app
+# Flutter-Counter-App-using-Bloc
 
 A new Flutter application.
 
